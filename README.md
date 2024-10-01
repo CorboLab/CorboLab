@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This repository is intended for depositing code used in Corbo Lab's publications.
+
 <!--
 **CorboLab/CorboLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
