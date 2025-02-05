@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Corbo Lab! 👋
 
 This repository is intended for depositing code used in Corbo Lab's publications.
 
