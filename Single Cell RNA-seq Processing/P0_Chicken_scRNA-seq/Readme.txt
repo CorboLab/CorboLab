@@ -1,1 +1,1 @@
-P0 chicken single cell RNA-seq processing
+P0 chicken single cell RNA-seq processing script
